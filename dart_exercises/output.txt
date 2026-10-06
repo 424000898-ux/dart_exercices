@@ -1,0 +1,6 @@
+Item Ordered  : Burger Meal
+Quantity      : 2
+Price per Item: PHP 120
+Takeout Order : true
+Total Cost    : PHP 240
+Qualifies for Free Extra Dips? true
